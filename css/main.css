@@ -106,6 +106,32 @@ p
     font: 15px "Roboto", sans-serif;
 }
 
+@media screen and (max-width: 400px) {
+
+    .wrapper{
+        background-color: white;
+        border-radius: 7px;
+        padding: 30px;
+        height: 335px;
+        width: 300px;
+        z-index: 2;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+
+    .wrapper{
+        background-color: white;
+        border-radius: 7px;
+        padding: 30px;
+        height: 330px;
+        width: 270px;
+        z-index: 2;
+    }
+
+}
+
 
 
 
