@@ -166,7 +166,7 @@ function tom_orion2(){
                 if (inputValue === "") {   
                 swal.showInputError("Không thể để trống được ");   
                 return false   }  
-                swal("OK !",""+ " chúc " +inputValue+ " .... ", "success"); 
+                swal("OK !",""+ " chúc " +inputValue+ "  năm mới bình an, khỏe mạnh, thịnh vượng, an khang. "+"Chúc gđ "+inputValue+"  năm 2022 khỏe mạnh chống lại đại dịch. Đa lộc, đa tài, đa phú quý, Đắc thời, đắc lộc, đắc nhân tâm", "success"); 
                     }); 
     
         }
